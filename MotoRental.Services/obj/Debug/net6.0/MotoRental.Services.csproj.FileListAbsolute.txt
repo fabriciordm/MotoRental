@@ -1,0 +1,17 @@
+C:\Users\FABRICIO\source\repos\Desafio-BackEnd\MotoRental.Services\obj\Debug\net6.0\MotoRental.Services.csproj.AssemblyReference.cache
+C:\Users\FABRICIO\source\repos\Desafio-BackEnd\MotoRental.Services\obj\Debug\net6.0\MotoRental.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FABRICIO\source\repos\Desafio-BackEnd\MotoRental.Services\obj\Debug\net6.0\MotoRental.Services.AssemblyInfoInputs.cache
+C:\Users\FABRICIO\source\repos\Desafio-BackEnd\MotoRental.Services\obj\Debug\net6.0\MotoRental.Services.AssemblyInfo.cs
+C:\Users\FABRICIO\source\repos\Desafio-BackEnd\MotoRental.Services\obj\Debug\net6.0\MotoRental.Services.csproj.CoreCompileInputs.cache
+C:\Users\FABRICIO\source\repos\Desafio-BackEnd\MotoRental.Services\bin\Debug\net6.0\MotoRental.Services.deps.json
+C:\Users\FABRICIO\source\repos\Desafio-BackEnd\MotoRental.Services\bin\Debug\net6.0\MotoRental.Services.dll
+C:\Users\FABRICIO\source\repos\Desafio-BackEnd\MotoRental.Services\bin\Debug\net6.0\MotoRental.Services.pdb
+C:\Users\FABRICIO\source\repos\Desafio-BackEnd\MotoRental.Services\bin\Debug\net6.0\Motorcycle.Domain.Core.dll
+C:\Users\FABRICIO\source\repos\Desafio-BackEnd\MotoRental.Services\bin\Debug\net6.0\Motorcycle.Domain.dll
+C:\Users\FABRICIO\source\repos\Desafio-BackEnd\MotoRental.Services\bin\Debug\net6.0\Motorcycle.Domain.Core.pdb
+C:\Users\FABRICIO\source\repos\Desafio-BackEnd\MotoRental.Services\bin\Debug\net6.0\Motorcycle.Domain.pdb
+C:\Users\FABRICIO\source\repos\Desafio-BackEnd\MotoRental.Services\obj\Debug\net6.0\MotoRental.Services.csproj.CopyComplete
+C:\Users\FABRICIO\source\repos\Desafio-BackEnd\MotoRental.Services\obj\Debug\net6.0\MotoRental.Services.dll
+C:\Users\FABRICIO\source\repos\Desafio-BackEnd\MotoRental.Services\obj\Debug\net6.0\refint\MotoRental.Services.dll
+C:\Users\FABRICIO\source\repos\Desafio-BackEnd\MotoRental.Services\obj\Debug\net6.0\MotoRental.Services.pdb
+C:\Users\FABRICIO\source\repos\Desafio-BackEnd\MotoRental.Services\obj\Debug\net6.0\ref\MotoRental.Services.dll

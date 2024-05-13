@@ -1,0 +1,6 @@
+C:\Users\FABRICIO\source\repos\Desafio-BackEnd\MotoRemtal.Tests\bin\Debug\net6.0\CoverletSourceRootsMapping
+C:\Users\FABRICIO\source\repos\Desafio-BackEnd\MotoRemtal.Tests\obj\Debug\net6.0\MotoRemtal.Tests.csproj.AssemblyReference.cache
+C:\Users\FABRICIO\source\repos\Desafio-BackEnd\MotoRemtal.Tests\obj\Debug\net6.0\MotoRemtal.Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FABRICIO\source\repos\Desafio-BackEnd\MotoRemtal.Tests\obj\Debug\net6.0\MotoRemtal.Tests.AssemblyInfoInputs.cache
+C:\Users\FABRICIO\source\repos\Desafio-BackEnd\MotoRemtal.Tests\obj\Debug\net6.0\MotoRemtal.Tests.AssemblyInfo.cs
+C:\Users\FABRICIO\source\repos\Desafio-BackEnd\MotoRemtal.Tests\obj\Debug\net6.0\MotoRemtal.Tests.csproj.CoreCompileInputs.cache

@@ -1,0 +1,15 @@
+C:\Users\FABRICIO\source\repos\Desafio-BackEnd\MotoRental.CrossCutting.MessageBus\bin\Debug\net6.0\MotoRental.CrossCutting.MessageBus.deps.json
+C:\Users\FABRICIO\source\repos\Desafio-BackEnd\MotoRental.CrossCutting.MessageBus\bin\Debug\net6.0\MotoRental.CrossCutting.MessageBus.dll
+C:\Users\FABRICIO\source\repos\Desafio-BackEnd\MotoRental.CrossCutting.MessageBus\bin\Debug\net6.0\MotoRental.CrossCutting.MessageBus.pdb
+C:\Users\FABRICIO\source\repos\Desafio-BackEnd\MotoRental.CrossCutting.MessageBus\bin\Debug\net6.0\Motorcycle.Domain.Core.dll
+C:\Users\FABRICIO\source\repos\Desafio-BackEnd\MotoRental.CrossCutting.MessageBus\bin\Debug\net6.0\Motorcycle.Domain.Core.pdb
+C:\Users\FABRICIO\source\repos\Desafio-BackEnd\MotoRental.CrossCutting.MessageBus\obj\Debug\net6.0\MotoRental.CrossCutting.MessageBus.csproj.AssemblyReference.cache
+C:\Users\FABRICIO\source\repos\Desafio-BackEnd\MotoRental.CrossCutting.MessageBus\obj\Debug\net6.0\MotoRental.CrossCutting.MessageBus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FABRICIO\source\repos\Desafio-BackEnd\MotoRental.CrossCutting.MessageBus\obj\Debug\net6.0\MotoRental.CrossCutting.MessageBus.AssemblyInfoInputs.cache
+C:\Users\FABRICIO\source\repos\Desafio-BackEnd\MotoRental.CrossCutting.MessageBus\obj\Debug\net6.0\MotoRental.CrossCutting.MessageBus.AssemblyInfo.cs
+C:\Users\FABRICIO\source\repos\Desafio-BackEnd\MotoRental.CrossCutting.MessageBus\obj\Debug\net6.0\MotoRental.CrossCutting.MessageBus.csproj.CoreCompileInputs.cache
+C:\Users\FABRICIO\source\repos\Desafio-BackEnd\MotoRental.CrossCutting.MessageBus\obj\Debug\net6.0\MotoRental.CrossCutting.MessageBus.csproj.CopyComplete
+C:\Users\FABRICIO\source\repos\Desafio-BackEnd\MotoRental.CrossCutting.MessageBus\obj\Debug\net6.0\MotoRental.CrossCutting.MessageBus.dll
+C:\Users\FABRICIO\source\repos\Desafio-BackEnd\MotoRental.CrossCutting.MessageBus\obj\Debug\net6.0\refint\MotoRental.CrossCutting.MessageBus.dll
+C:\Users\FABRICIO\source\repos\Desafio-BackEnd\MotoRental.CrossCutting.MessageBus\obj\Debug\net6.0\MotoRental.CrossCutting.MessageBus.pdb
+C:\Users\FABRICIO\source\repos\Desafio-BackEnd\MotoRental.CrossCutting.MessageBus\obj\Debug\net6.0\ref\MotoRental.CrossCutting.MessageBus.dll

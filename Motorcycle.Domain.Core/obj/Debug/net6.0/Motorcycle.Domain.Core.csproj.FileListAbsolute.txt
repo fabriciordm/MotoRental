@@ -1,0 +1,12 @@
+C:\Users\FABRICIO\source\repos\Desafio-BackEnd\Motorcycle.Domain.Core\bin\Debug\net6.0\Motorcycle.Domain.Core.deps.json
+C:\Users\FABRICIO\source\repos\Desafio-BackEnd\Motorcycle.Domain.Core\bin\Debug\net6.0\Motorcycle.Domain.Core.dll
+C:\Users\FABRICIO\source\repos\Desafio-BackEnd\Motorcycle.Domain.Core\bin\Debug\net6.0\Motorcycle.Domain.Core.pdb
+C:\Users\FABRICIO\source\repos\Desafio-BackEnd\Motorcycle.Domain.Core\obj\Debug\net6.0\Motorcycle.Domain.Core.csproj.AssemblyReference.cache
+C:\Users\FABRICIO\source\repos\Desafio-BackEnd\Motorcycle.Domain.Core\obj\Debug\net6.0\Motorcycle.Domain.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FABRICIO\source\repos\Desafio-BackEnd\Motorcycle.Domain.Core\obj\Debug\net6.0\Motorcycle.Domain.Core.AssemblyInfoInputs.cache
+C:\Users\FABRICIO\source\repos\Desafio-BackEnd\Motorcycle.Domain.Core\obj\Debug\net6.0\Motorcycle.Domain.Core.AssemblyInfo.cs
+C:\Users\FABRICIO\source\repos\Desafio-BackEnd\Motorcycle.Domain.Core\obj\Debug\net6.0\Motorcycle.Domain.Core.csproj.CoreCompileInputs.cache
+C:\Users\FABRICIO\source\repos\Desafio-BackEnd\Motorcycle.Domain.Core\obj\Debug\net6.0\Motorcycle.Domain.Core.dll
+C:\Users\FABRICIO\source\repos\Desafio-BackEnd\Motorcycle.Domain.Core\obj\Debug\net6.0\refint\Motorcycle.Domain.Core.dll
+C:\Users\FABRICIO\source\repos\Desafio-BackEnd\Motorcycle.Domain.Core\obj\Debug\net6.0\Motorcycle.Domain.Core.pdb
+C:\Users\FABRICIO\source\repos\Desafio-BackEnd\Motorcycle.Domain.Core\obj\Debug\net6.0\ref\Motorcycle.Domain.Core.dll
